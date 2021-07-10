@@ -2,5 +2,5 @@
 my fist app in angular
 
 #### npm i
-#### ng s --port 4300
+#### ng s --open
 
